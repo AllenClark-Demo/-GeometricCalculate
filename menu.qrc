@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/iocFile">
+        <file>images/calculator.jpg</file>
+        <file>images/circle.jpg</file>
+        <file>images/cone.jpg</file>
+        <file>images/cuboid.jpg</file>
+        <file>images/cude.jpg</file>
+        <file>images/cylinder.jpg</file>
+        <file>images/exit.jpg</file>
+        <file>images/globe.jpg</file>
+        <file>images/prism.jpg</file>
+        <file>images/rectangle.jpg</file>
+        <file>images/search.ICO</file>
+        <file>images/square.jpg</file>
+        <file>images/trapezoid.jpg</file>
+        <file>images/triangle.jpg</file>
+        <file>images/triangle.png</file>
+        <file>images/triangularPyramid.jpg</file>
+        <file>images/help.png</file>
+        <file>images/bitbug_favicon (1).ico</file>
+        <file>images/319357.gif.png</file>
+        <file>images/D4.png</file>
+        <file>images/bitbug_favicon(1).ico</file>
+        <file>images/bitbug_favicon.ico</file>
+        <file>images/1.ico</file>
+        <file>images/2.ico</file>
+        <file>images/3.ico</file>
+        <file>images/4.ico</file>
+        <file>images/6.ico</file>
+        <file>images/7.ico</file>
+        <file>images/u=299685618,3839540555&amp;fm=200&amp;gp=0.jpg</file>
+        <file>images/9.ico</file>
+        <file>images/000.ico</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
